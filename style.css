@@ -1,0 +1,140 @@
+.datos
+{
+    text-align: right;
+    font-family: Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h1
+{
+    text-align: center;
+    color: rgba(18, 136, 214, 0.849);
+    
+}
+
+.primero
+{
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.cafe
+{
+    color: #684214;
+    font-family:Berlin Sans FB,sans-serif;
+    font-size: 30px;
+    width: 400px;
+}
+
+
+
+.naranja
+{
+    color: #f3ac14;
+    font-family:Berlin Sans FB,sans-serif;
+    font-size: 30px;
+    
+}
+
+.negro
+{
+    color:rgba(0, 0, 0, 0.521);
+    font-family:Berlin Sans FB,sans-serif;
+    font-size: 30px;
+      
+}
+
+.azul
+{
+    color:rgba(29, 92, 228, 0.993);
+    font-family:Berlin Sans FB,sans-serif;
+    font-size: 30px;
+    
+}
+
+.verde
+{
+    color:rgba(29, 228, 95, 0.993);
+    font-family:Berlin Sans FB,sans-serif;
+    font-size: 30px;
+}
+
+.rojo
+{
+    color:rgba(228, 29, 29, 0.993);
+    font-family:Berlin Sans FB,sans-serif;
+    font-size: 30px;
+}
+
+.rosa
+{
+    color:rgba(228, 29, 211, 0.993);
+    font-family:Berlin Sans FB,sans-serif;
+    font-size: 30px;
+}
+
+.morado
+{
+    color:rgba(122, 29, 228, 0.993);
+    font-family:Berlin Sans FB,sans-serif;
+    font-size: 30px;
+}
+
+.cyan
+{
+    color:rgba(29, 182, 228, 0.993);
+    font-family:Berlin Sans FB,sans-serif;
+    font-size: 30px;
+}
+
+.green
+{
+    color:rgba(29, 228, 95, 0.993);
+    font-family: Calibri, 'Trebuchet MS', sans-serif;
+}
+.blue
+{
+    color:rgba(35, 113, 231, 0.993);
+    font-family: Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.yellow
+{
+    color: #f3ac14;
+    font-family: Calibri, sans-serif;
+}
+
+.red
+{
+    color: rgba(228, 29, 29, 0.993);
+    font-family: Calibri, sans-serif;
+}
+
+.col-md-3
+{
+    font-family: Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.tabla
+{
+    border: solid 1px black;
+}
+
+.segundo
+{
+    font-family: Calibri, sans-serif;
+}
+
+.final
+{
+    position: relative;
+    left: 80px;
+}
+
+a
+{
+    color:rgba(228, 29, 211, 0.993);
+}
+@font-face {
+    font-family: Berlin Sans FB;
+    src: url(Brlnsb.ttf);
+}
